@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Real-react-drum-machine/static/css/main.12346678.chunk.css",
+    "main.js": "/Real-react-drum-machine/static/js/main.722bf4e0.chunk.js",
+    "main.js.map": "/Real-react-drum-machine/static/js/main.722bf4e0.chunk.js.map",
+    "runtime-main.js": "/Real-react-drum-machine/static/js/runtime-main.462752f5.js",
+    "runtime-main.js.map": "/Real-react-drum-machine/static/js/runtime-main.462752f5.js.map",
+    "static/js/2.b0c8639c.chunk.js": "/Real-react-drum-machine/static/js/2.b0c8639c.chunk.js",
+    "static/js/2.b0c8639c.chunk.js.map": "/Real-react-drum-machine/static/js/2.b0c8639c.chunk.js.map",
+    "index.html": "/Real-react-drum-machine/index.html",
+    "static/css/main.12346678.chunk.css.map": "/Real-react-drum-machine/static/css/main.12346678.chunk.css.map",
+    "static/js/2.b0c8639c.chunk.js.LICENSE.txt": "/Real-react-drum-machine/static/js/2.b0c8639c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.462752f5.js",
+    "static/js/2.b0c8639c.chunk.js",
+    "static/css/main.12346678.chunk.css",
+    "static/js/main.722bf4e0.chunk.js"
+  ]
+}
